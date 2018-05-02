@@ -1,0 +1,162 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="FRS.com" resolutions="1x" timestamp="1525278231370">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="395423348" ref="sources:how-it-works:how-to-protect-yourself:about:index:what-good-about-it:what-bad-about-it"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="sources:how-it-works:how-to-protect-yourself:about:index:what-good-about-it:what-bad-about-it"/>
+    <file name="sources.css" crc="4173152284" ref="sources"/>
+    <file name="nomq_sources.css" crc="3886693480" ref="sources"/>
+    <file name="how-it-works.css" crc="173109111" ref="how-it-works"/>
+    <file name="nomq_how-it-works.css" crc="215970622" ref="how-it-works"/>
+    <file name="how-to-protect-yourself.css" crc="4089667771" ref="how-to-protect-yourself"/>
+    <file name="nomq_how-to-protect-yourself.css" crc="110318372" ref="how-to-protect-yourself"/>
+    <file name="about.css" crc="4015031707" ref="about"/>
+    <file name="nomq_about.css" crc="3974741747" ref="about"/>
+    <file name="index.css" crc="469027613" ref="index"/>
+    <file name="nomq_index.css" crc="4114368200" ref="index"/>
+    <file name="what-good-about-it.css" crc="4288071748" ref="what-good-about-it"/>
+    <file name="nomq_what-good-about-it.css" crc="389476574" ref="what-good-about-it"/>
+    <file name="what-bad-about-it.css" crc="292220407" ref="what-bad-about-it"/>
+    <file name="nomq_what-bad-about-it.css" crc="4186466083" ref="what-bad-about-it"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="require.js" crc="7928878" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 13.svg" crc="4210306576" ref="index:about"/>
+    <file name="asset 13_poster_u445.png" crc="362350844" ref="index:about"/>
+    <file name="asset-14.svg" crc="4089305409" seo="true" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+    </file>
+    <file name="asset 14_poster_.png" crc="3902529639" ref="index"/>
+    <file name="asset-32.svg" crc="4068977433" seo="true" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+    </file>
+    <file name="asset 32_poster_.png" crc="3849474084" ref="index"/>
+    <file name="asset-33.svg" crc="100376055" seo="true" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="how-to-protect-yourself" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="how-it-works" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="sources" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+      <caption webpage="what-bad-about-it" alt=""/>
+    </file>
+    <file name="asset 33_poster_.png" crc="125009344" ref="index"/>
+    <file name="asset-34.svg" crc="366995536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="asset 34_poster_.png" crc="4155574161" ref="index"/>
+    <file name="asset-35.svg" crc="302172982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 35_poster_.png" crc="3990946602" ref="index"/>
+    <file name="asset-36.svg" crc="534854724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 36_poster_.png" crc="4270236144" ref="index"/>
+    <file name="asset-37.svg" crc="157345484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 37_poster_.png" crc="205873701" ref="index"/>
+    <file name="asset-38.svg" crc="4161194529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 38_poster_.png" crc="3824100682" ref="index"/>
+    <file name="asset-39.svg" crc="334315322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 39_poster_.png" crc="352656217" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="asset 5.svg" crc="3992281649" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="asset 5_poster_u453.png" crc="498114222" ref="index:about:how-it-works:what-good-about-it:what-bad-about-it:sources:how-to-protect-yourself"/>
+    <file name="df9c409a-fc0e-11e7-b2f7-03450b80c791_1280x720_134020.jpg" crc="401796981" ref="what-good-about-it">
+      <caption webpage="what-good-about-it" alt=""/>
+      <caption webpage="what-good-about-it" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4011242711" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="about.html" crc="146548144" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="how-it-works.html" crc="102994189" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="what-good-about-it.html" crc="180573335" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="what-bad-about-it.html" crc="475064892" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="sources.html" crc="343284270" seo="true" mt="1525278177062" redirect="true"/>
+  <file name="how-to-protect-yourself.html" crc="3905310499" seo="true" mt="1525278177062" redirect="true"/>
+</manifest>
